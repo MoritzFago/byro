@@ -2,3 +2,4 @@ recursive-include byro/static *
 recursive-include byro/common/templates *
 recursive-include byro/office/templates *
 recursive-include byro/public/templates *
+recursive-include byro/locale *
