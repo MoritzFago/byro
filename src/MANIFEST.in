@@ -1,1 +1,2 @@
 recursive-include byro/static *
+recursive-include byro/common/templates *
